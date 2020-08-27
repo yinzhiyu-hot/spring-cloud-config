@@ -4,3 +4,10 @@ eureka:
       register-with-eureka: true
       fetch-registry: true
       defaultZone: http://yinzhiyu:yinzhiyu@localhost:8087/eureka
+      
+data:
+  desc: spring-cloud-ex-pro
+   
+  user:
+    username: NaN
+    password: NaN
